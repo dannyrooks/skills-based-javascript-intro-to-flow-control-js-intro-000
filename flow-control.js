@@ -1,6 +1,9 @@
-function basicTeenager(age) {
+var basicTeenager = '13-19'
 
+function basicTeenager(age) {
+if age
 }
+  
 
 function teenager(age) {
 
